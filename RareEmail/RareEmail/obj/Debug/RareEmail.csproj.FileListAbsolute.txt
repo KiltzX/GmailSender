@@ -1,0 +1,11 @@
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\bin\Debug\RareEmail.exe.config
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\bin\Debug\RareEmail.exe
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\bin\Debug\RareEmail.pdb
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\obj\Debug\RareEmail.csprojAssemblyReference.cache
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\obj\Debug\RareEmail.Form1.resources
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\obj\Debug\RareEmail.Properties.Resources.resources
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\obj\Debug\RareEmail.csproj.GenerateResource.cache
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\obj\Debug\RareEmail.csproj.CoreCompileInputs.cache
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\obj\Debug\RareEmail.exe
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\obj\Debug\RareEmail.pdb
+C:\Users\dudu-\source\repos\RareEmail\RareEmail\obj\Debug\RareEmail.EnviarEmail.resources
